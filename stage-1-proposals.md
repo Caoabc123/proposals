@@ -226,7 +226,7 @@ See also the [active proposals](README.md), [stage 0 proposals](stage-0-proposal
 [extensions-notes]: https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-19.md#extensions-for-stage-1
 [accessors]: https://github.com/rbuckton/proposal-grouped-and-auto-accessors
 [accessors-notes]: https://github.com/tc39/notes/blob/master/meetings/2020-11/nov-19.md#continuation-grouped-accessors-and-auto-accessors
-[async-do]: https://github.com/bakkot/proposal-async-do-expressions
+[async-do]: https://github.com/tc39/proposal-async-do-expressions
 [class-brand-check]: https://github.com/tc39/proposal-class-brand-check
 [regex-set-notation]: https://github.com/tc39/proposal-regexp-set-notation
 [escape]: https://github.com/tc39/proposal-regex-escaping
