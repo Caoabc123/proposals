@@ -232,4 +232,4 @@ See also the [active proposals](README.md), [stage 0 proposals](stage-0-proposal
 [escape]: https://github.com/tc39/proposal-regex-escaping
 [escape-notes]: https://github.com/tc39/notes/blob/master/meetings/2015-07/july-28.md#62-regexpescape
 [find-last]: https://github.com/tc39/proposal-array-find-from-last
-[lazy-import]: https://github.com/tc39/proposal-lazy-import
+[lazy-import]: https://github.com/tc39/proposal-defer-import-eval
