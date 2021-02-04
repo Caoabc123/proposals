@@ -16,4 +16,4 @@ See also the [finished proposals](finished-proposals.md), and [active proposals]
 [fix 9.2.3 lookupmatcher algorithm]: https://github.com/rxaviers/ecma402-fix-lookup-matcher
 [intl.numberformat round option]: https://github.com/rxaviers/ecma402-number-format-round-option
 [numberformat options]: https://github.com/sffc/proposal-unified-intl-numberformat
-[intl-localematcher]: https://github.com/longlho/proposal-intl-localematcher
+[intl-localematcher]: https://github.com/tc39/proposal-intl-localematcher
